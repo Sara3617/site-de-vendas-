@@ -1,4 +1,4 @@
-# site-de-vendas-
+# site-de-vendas- para produto eletrônico
 [index (1).html](https://github.com/user-attachments/files/24947507/index.1.html)
 <!DOCTYPE html>
 <html lang="pt-BR">
